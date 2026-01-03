@@ -1,0 +1,5 @@
+{
+  "name": "Minecraft SRT Narrative Rewriter",
+  "description": "A specialized tool for Minecraft content creators to translate and narrativize English SRT subtitles into high-quality Vietnamese storytelling subtitles, preserving exact timestamps for AI voiceovers and CapCut.",
+  "requestFramePermissions": []
+}
